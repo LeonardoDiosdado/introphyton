@@ -27,10 +27,10 @@ elif opcion == "2":
 elif opcion == 3:
     print("2 seleccionado:circulo")
     radio = float (input("ingrese el radio:"))
-    area = pi.*radio ** 2
+    area = pi*radio ** 2
     print("el area del circulo es:")
     
-elif opcion == 4
+elif opcion == 4:
     print("4 seleccionado: pentagono")
     perimetro = float(input("ingrese el perimetro:"))
     apotema = float(input("ingresa el apotema:"))
@@ -40,5 +40,5 @@ elif opcion == 4
 elif opcion == 5:
     print("saliendo a menu...")
     
-Else:
-print(opcion no valida)
+Else
+print("opcion no valida"):
